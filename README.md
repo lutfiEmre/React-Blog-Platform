@@ -1,3 +1,4 @@
+https://school-2ef8a.web.app/
 # React Blog Platform
 
 React Blog Platform is a modern, responsive blog application where users can:
